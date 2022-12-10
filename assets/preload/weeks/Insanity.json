@@ -1,0 +1,40 @@
+{
+	"songs": [
+		[
+			"lost-my-mind",
+			"sonicweak",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"breaking-point",
+			"dw",
+			[
+				31,
+				0,
+				102
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "bruh",
+	"difficulties": "Insanity",
+	"weekCharacters": [
+		"",
+		"himura",
+		""
+	],
+	"storyName": "Sonic vs. Xain - Lost My Mind",
+	"weekName": "xain",
+	"freeplayColor": [
+		0,
+		0,
+		0
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
