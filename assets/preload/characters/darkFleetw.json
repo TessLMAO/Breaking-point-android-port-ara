@@ -1,0 +1,328 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-fake",
+			"indices": [],
+			"name": "Sonic idle alt"
+		},
+		{
+			"offsets": [
+				26,
+				52
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "transformJustLaugh",
+			"indices": [],
+			"name": "Sonic transformJustLaugh"
+		},
+		{
+			"offsets": [
+				42,
+				63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "Fleet left"
+		},
+		{
+			"offsets": [
+				10,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "Fleet down"
+		},
+		{
+			"offsets": [
+				-10,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "Fleet up"
+		},
+		{
+			"offsets": [
+				17,
+				46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Fleet down PISSED"
+		},
+		{
+			"offsets": [
+				-13,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Fleet up PISSED"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				64
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Fleet left PISSED",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				57
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Fleet right PISSED",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				57
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Fleet right",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Fleet idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				50
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Fleet idle pissed",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				50
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "GAME OVER",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				50
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "GAME OVER loop",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				50
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "GAME OVER enter",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dark_fleetway",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "icon-dw",
+	"flip_x": true,
+	"healthbar_colors": [
+		31,
+		0,
+		102
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
