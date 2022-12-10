@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dark_fleetway.png">
+<SubTexture name="Fleet down0000" x="1199" y="1644" width="361" height="534" frameX="0" frameY="-11" frameWidth="366" frameHeight="545" />
+<SubTexture name="Fleet down0001" x="1895" y="540" width="364" height="538" frameX="-1" frameY="-6" frameWidth="366" frameHeight="545" />
+<SubTexture name="Fleet down0002" x="1261" y="1102" width="364" height="540" frameX="-1" frameY="-1" frameWidth="366" frameHeight="545" />
+<SubTexture name="Fleet down PISSED0000" x="425" y="1644" width="380" height="537" frameX="0" frameY="-12" frameWidth="384" frameHeight="549" />
+<SubTexture name="Fleet down PISSED0001" x="1480" y="542" width="383" height="541" frameX="-1" frameY="-7" frameWidth="384" frameHeight="549" />
+<SubTexture name="Fleet down PISSED0002" x="739" y="551" width="383" height="543" frameX="-1" frameY="-2" frameWidth="384" frameHeight="549" />
+<SubTexture name="Fleet idle0000" x="1895" y="1078" width="379" height="538" frameX="-12" frameY="0" frameWidth="392" frameHeight="539" />
+<SubTexture name="Fleet idle pissed0000" x="805" y="1644" width="394" height="537" frameX="-12" frameY="0" frameWidth="406" frameHeight="538" />
+<SubTexture name="Fleet left0000" x="380" y="551" width="359" height="548" frameX="0" frameY="-3" frameWidth="371" frameHeight="551" />
+<SubTexture name="Fleet left0001" x="0" y="0" width="361" height="551" frameX="-4" frameY="0" frameWidth="371" frameHeight="551" />
+<SubTexture name="Fleet left0002" x="361" y="0" width="361" height="551" frameX="-8" frameY="0" frameWidth="371" frameHeight="551" />
+<SubTexture name="Fleet left PISSED0000" x="722" y="0" width="378" height="551" frameX="0" frameY="0" frameWidth="390" frameHeight="551" />
+<SubTexture name="Fleet left PISSED0001" x="1100" y="0" width="380" height="551" frameX="-4" frameY="0" frameWidth="390" frameHeight="551" />
+<SubTexture name="Fleet left PISSED0002" x="0" y="551" width="380" height="551" frameX="-8" frameY="0" frameWidth="390" frameHeight="551" />
+<SubTexture name="Fleet right0000" x="1895" y="0" width="418" height="540" frameX="-1" frameY="-3" frameWidth="420" frameHeight="543" />
+<SubTexture name="Fleet right0001" x="421" y="1102" width="417" height="541" frameX="0" frameY="-2" frameWidth="420" frameHeight="543" />
+<SubTexture name="Fleet right0002" x="1480" y="0" width="415" height="542" frameX="0" frameY="-1" frameWidth="420" frameHeight="543" />
+<SubTexture name="Fleet right PISSED0000" x="0" y="1644" width="425" height="540" frameX="-1" frameY="-3" frameWidth="426" frameHeight="543" />
+<SubTexture name="Fleet right PISSED0001" x="838" y="1102" width="423" height="541" frameX="0" frameY="-2" frameWidth="426" frameHeight="543" />
+<SubTexture name="Fleet right PISSED0002" x="0" y="1102" width="421" height="542" frameX="0" frameY="-1" frameWidth="426" frameHeight="543" />
+<SubTexture name="Fleet up0000" x="2313" y="1012" width="417" height="492" frameX="0" frameY="0" frameWidth="417" frameHeight="496" />
+<SubTexture name="Fleet up0001" x="2313" y="1504" width="412" height="491" frameX="0" frameY="-1" frameWidth="417" frameHeight="496" />
+<SubTexture name="Fleet up0002" x="0" y="2184" width="407" height="491" frameX="0" frameY="-2" frameWidth="417" frameHeight="496" />
+<SubTexture name="Fleet up PISSED0000" x="1560" y="1644" width="426" height="510" frameX="0" frameY="0" frameWidth="426" frameHeight="510" />
+<SubTexture name="Fleet up PISSED0001" x="2313" y="0" width="422" height="508" frameX="0" frameY="-2" frameWidth="426" frameHeight="510" />
+<SubTexture name="Fleet up PISSED0002" x="2313" y="508" width="417" height="504" frameX="0" frameY="-6" frameWidth="426" frameHeight="510" />
+</TextureAtlas>
